@@ -1,0 +1,58 @@
+{
+    "rasa_nlu_data": {
+        "regex_features": [],
+        "entity_synonyms": [],
+        "common_examples": [
+            {
+                "text": "annuler la formation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "Je demande d’ouvrir à nouveau la formation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "réouvrir la formation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas le code de la formation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez annuler ma formation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux avoir mon attestation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "je veux mon attestation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "j'ai pas trouvé mon attestation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "il est où mon attestation",
+                "intent": "linked_formation",
+                "entities": []
+            },
+            {
+                "text": "j'ai pas reçu mon attestation",
+                "intent": "linked_formation",
+                "entities": []
+            }
+        ]
+    }
+}

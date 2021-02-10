@@ -1,0 +1,101 @@
+{
+    "rasa_nlu_data": {
+      "regex_features": [],
+      "entity_synonyms": [],
+      "common_examples": [
+        {
+          "text": "Bonjour",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "Salut",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "yoo",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "Hi",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "hello",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "sup",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "bonsoir",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "il y a quelqu'un",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "je veux vous parler",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "je cherche quelqu'un pour parler ",
+          "intent": "greeting",
+          "entities": []
+        },
+        {
+          "text": "Good bye",
+          "intent": "goodbye",
+          "entities": []
+        },
+        {
+          "text": "au revoire",
+          "intent": "goodbye",
+          "entities": []
+        },
+        {
+          "text": "à bientôt",
+          "intent": "goodbye",
+          "entities": []
+        },
+        {
+          "text": "bye",
+          "intent": "goodbye",
+          "entities": []
+        },
+        {
+          "text": "à tout à l'heur",
+          "intent": "goodbye",
+          "entities": []
+        },
+        {
+          "text": "see you",
+          "intent": "goodbye",
+          "entities": []
+        },
+        {
+          "text": "byebye",
+          "intent": "goodbye",
+          "entities": []
+        },
+        {
+          "text": "à la prochaine",
+          "intent": "goodbye",
+          "entities": []
+        }
+
+
+      ]
+    }
+  }
+  

@@ -1,0 +1,553 @@
+{
+    "rasa_nlu_data": {
+        "regex_features": [],
+        "entity_synonyms": [],
+        "common_examples": [
+            {
+                "text": "J’arrives pas à me connecter",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J’arrives pas à m'authentifier",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "comment puis je me connecter",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "comment puis je m'authentifier",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne peux pas me connecter",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne peux pas m'authentifier",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas de code",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas de clé de vérification",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "je ne possède pas code",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "je ne possède pas token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "je ne possède pas clé de vérification",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne trouve pas l’application R-campus dans Renault net",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne trouve pas R-campus dans Renault net",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne trouve pas l’app dans Renault net",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "j'arrive pas à trouver l’application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "j'arrive pas à trouver R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "j'arrive pas à trouver l’app",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "je sais pas où l’application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "je sais pas où R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "je sais pas où l’app",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J’ai oublié mon login et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Mot de passe oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Il est où clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Il est où clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Il est où token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J'ai besoin clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J'ai besoin clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J'ai besoin token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne possède pas de clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne possède pas de clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne possède pas de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux avoir un clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux avoir un clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux avoir un token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Donnez-moi clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Donnez-moi clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Donnez-moi token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "clé de validation",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "clé de token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "token",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Il est où onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Il est où application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Il est où R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à voire onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à voire application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à voire R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne vois pas onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne vois pas application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne vois pas R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "onglet R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "application R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "R-campus",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "login et mot de passe oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "identifiant et mot de passe oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "login oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "mot de passe oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "mdp oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "passeword oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "identifiant oublié",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas login et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas identifiant et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas login",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas mdp",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas passeword",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas identifiant",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir login et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir identifiant et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir login",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir mdp",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir passeword",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir identifiant",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer login et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer identifiant et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer login",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer mdp",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer passeword",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer identifiant",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "login et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "identifiant et mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "login",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "mot de passe",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "mdp",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "passeword",
+                "intent": "acces_plateforme",
+                "entities": []
+            },
+            {
+                "text": "identifiant",
+                "intent": "acces_plateforme",
+                "entities": []
+            }
+        ]
+    }
+}

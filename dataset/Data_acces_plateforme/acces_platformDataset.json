@@ -1,0 +1,467 @@
+{
+    "rasa_nlu_data": {
+        "regex_features": [],
+        "entity_synonyms": [],
+        "common_examples": [
+            {
+                "text": "Je n’ai pas clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Il est où clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Il est où clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Il est où token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "J'ai besoin clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "J'ai besoin clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "J'ai besoin token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Je ne possède pas de clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Je ne possède pas de clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Je ne possède pas de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux avoir un clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux avoir un clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux avoir un token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Donnez-moi clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Donnez-moi clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Donnez-moi token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "clé de validation",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "clé de token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "token",
+                "intent": "token",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Il est où onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Il est où application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Il est où R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à voire onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à voire application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à voire R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je ne vois pas onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je ne vois pas application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Je ne vois pas R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "onglet R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "application R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "R-campus",
+                "intent": "prob_application",
+                "entities": []
+            },
+            {
+                "text": "login et mot de passe oublié",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "identifiant et mot de passe oublié",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "login oublié",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "mot de passe oublié",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "mdp oublié",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "passeword oublié",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "identifiant oublié",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas login et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas identifiant et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas login",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas mdp",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas passeword",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne me rappelle pas identifiant",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir login et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir identifiant et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir login",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir mdp",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir passeword",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir identifiant",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer login et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer identifiant et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer login",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer mdp",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer passeword",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer identifiant",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "login et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "identifiant et mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "login",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "mot de passe",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "mdp",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "passeword",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "identifiant",
+                "intent": "prob_connexion",
+                "entities": []
+            }, {
+                "text": "J’arrives pas à me connecter",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "J’arrives pas à m'authentifier",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "comment puis je me connecter",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "comment puis je m'authentifier",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne peux pas me connecter",
+                "intent": "prob_connexion",
+                "entities": []
+            },
+            {
+                "text": "Je ne peux pas m'authentifier",
+                "intent": "prob_connexion",
+                "entities": []
+            }
+        ]
+    }
+}

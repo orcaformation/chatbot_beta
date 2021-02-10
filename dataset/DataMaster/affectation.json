@@ -1,0 +1,138 @@
+{
+    "rasa_nlu_data": {
+        "regex_features": [],
+        "entity_synonyms": [],
+        "common_examples": [
+            {
+                "text": "Je n’ai pas reçu ma convocation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Je n’ai pas reçu mon attestation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "J’accède à mon compte est je suis toujours",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "modifier ma fonctionnalité",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "changer la fonctionnalité",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Je n’arrive pas à télécharger ma convocation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Je n’arrive pas à télécharger mon attestation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Je ne trouve pas ma convocation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Je ne trouve pas mon attestation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "J’ai terminé la pré formation mais je n’arrive pas à avoir ma convocation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "J’ai terminé la pré formation mais je n’arrive pas à avoir mon attestation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "J’ai fait ma préformation et j’arrives pas à voir ma convocation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "J’ai fait ma préformation et j’arrives pas à voir mon attestation",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez retirer",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "je veux fair un retrait d'un",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "fair un retrait d'un",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver onglet green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver onglet green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Où est onglet green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "Où est green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "j'arrive pas à trouver onglet green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "j'arrive pas à trouver green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "je sais pas où onglet green tour",
+                "intent": "affectation",
+                "entities": []
+            },
+            {
+                "text": "je sais pas où green tour",
+                "intent": "affectation",
+                "entities": []
+            }
+        ]
+    }
+}

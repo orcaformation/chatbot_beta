@@ -1,0 +1,439 @@
+{
+    "rasa_nlu_data": {
+        "regex_features": [],
+        "entity_synonyms": [],
+        "common_examples": [
+            {
+                "text": "J’arrives pas à voir formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je ne connais pas le nom de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J'ai oublié le nom de ma formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je veux voir formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas assisté à formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où est ma formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu acceder formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’arrives pas à voir quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je veux voir quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas assisté à quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où est ma quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu acceder quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’arrives pas à voir video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouver video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je veux voir video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas assisté à video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où est ma video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu acceder video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer video conférence",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pu assister à la formation et je n’arrive pas à voir quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pu assister à la formation et je n’arrive pas à voir quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pu assister à la formation et je n’arrive pas à voir test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Il est où quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Il est où quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Il est où test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Montrez-moi quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Montrez-moi quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Montrez-moi test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je suis sur la plateforme mais je ne vois pas quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je suis sur la plateforme mais je ne vois pas quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je suis sur la plateforme mais je ne vois pas test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "quizz",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "quize",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "test",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé Il est où formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Il est où formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu acceder formation je ne peux pas la trouvé",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je ne connais pas le nom de la fromation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je ne connais pas l'intitulé de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Je ne connais pas le titre de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Quelle est le nom de la fromation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Quelle est l'intitulé de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Quelle est le titre de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir le nom de la fromation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir l'intitulé de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir le titre de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer le nom de la fromation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer l'intitulé de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer le titre de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'informer sur le nom de la fromation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'informer sur l'intitulé de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'informer sur le titre de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "le nom de la fromation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "l'intitulé de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            },
+            {
+                "text": "le titre de la formation",
+                "intent": "acces_formation",
+                "entities": []
+            }
+            
+        ]
+    }
+}

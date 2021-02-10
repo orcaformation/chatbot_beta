@@ -1,0 +1,278 @@
+{
+    "rasa_nlu_data": {
+        "regex_features": [],
+        "entity_synonyms": [],
+        "common_examples": [
+            {
+                "text": "J’ai pu assister à la formation et je n’arrive pas à voir quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pu assister à la formation et je n’arrive pas à voir quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pu assister à la formation et je n’arrive pas à voir test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Où je peux trouvez test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Il est où quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Il est où quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Il est où test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Montrez-moi quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Montrez-moi quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Montrez-moi test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Je suis sur la plateforme mais je ne vois pas quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Je suis sur la plateforme mais je ne vois pas quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Je suis sur la plateforme mais je ne vois pas test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "comment je peux accéder à test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu aborder test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu commencer test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "quizz",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "quize",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "test",
+                "intent": "quizz_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Je n'arrive pas à trouver formation",
+                "intent": "formation_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux accéder à formation",
+                "intent": "formation_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Je n'ai pas trouvé Il est où formation",
+                "intent": "formation_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Il est où formation",
+                "intent": "formation_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu acceder formation je ne peux pas la trouvé",
+                "intent": "formation_introuvable",
+                "entities": []
+            },
+            {
+                "text": "J’ai pas pu trouver formation",
+                "intent": "formation_introuvable",
+                "entities": []
+            },
+            {
+                "text": "Je ne connais pas le nom de la fromation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Je ne connais pas l'intitulé de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Je ne connais pas le titre de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Quelle est le nom de la fromation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Quelle est l'intitulé de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Quelle est le titre de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir le nom de la fromation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir l'intitulé de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "Comment je peux savoir le titre de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer le nom de la fromation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer l'intitulé de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'envoyer le titre de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'informer sur le nom de la fromation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'informer sur l'intitulé de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "vous pouvez m'informer sur le titre de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "le nom de la fromation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "l'intitulé de la formation",
+                "intent": "name_formation",
+                "entities": []
+            },
+            {
+                "text": "le titre de la formation",
+                "intent": "name_formation",
+                "entities": []
+            }
+        ]
+    }
+}
