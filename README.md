@@ -31,7 +31,7 @@ You will find in this link a very quick guide to manage well rasa
   [github Rasa custom bot](https://github.com/RasaHQ/rasa)
 
 ## Where to get help
-You can finde a big community cas answer you question 
+You can find a big community can answer your question
 
 Please use [Rasa Community Forum](https://forum.rasa.com) for quick answers to
 questions.

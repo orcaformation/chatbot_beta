@@ -1,0 +1,1 @@
+rasa run -m model/acces_plateforme/ --enable-api -p 5001 --cors "*" --debug

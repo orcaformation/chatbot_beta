@@ -1,0 +1,1 @@
+rasa run -m model/acces_formation/ --enable-api --cors "*" --debug
