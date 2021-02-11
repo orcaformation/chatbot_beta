@@ -1,3 +1,0 @@
-rasa run -m model/Master/ --enable-api -p 5000 --cors "*" --debug
-rasa run -m model/acces_plateforme/ --enable-api -p 5001 --cors "*" --debug
-rasa run -m model/acces_formation/ --enable-api --cors "*" --debug
