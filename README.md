@@ -86,5 +86,11 @@ After the training we will have a trained model so we can run our model with the
 ```bash
 rasa run -m outPutmodel --enable-api -p your_port --cors "*" --debug
 ```
+You can also use a batch files to run commands just with a simple call of the "file.bat"
+ without writing the whole commande
 
+ create a "file.bat" and wrinte the and write the command above inside
 
+ ```bash
+C:\yourPath\chatbot_beta> file.bat  # Call the "file.bat" 
+```
